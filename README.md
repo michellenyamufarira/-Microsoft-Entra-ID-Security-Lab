@@ -40,3 +40,15 @@ I executed an active containment drill simulating a critical SOC alert indicatin
 * Identity & Access Management (IAM) Workflow Design
 * Incident Response Containment Topography
 * Enterprise User/Group Lifecycle Automation
+
+## lab visual proof and & evidence
+### 1. Active corporate directory setup
+<img width="1354" height="588" alt="1-user-directory" src="https://github.com/user-attachments/assets/98960408-ce41-47c5-b636-e7c3d145d746" />
+
+### 2. privileged access role assignment
+<img width="1361" height="628" alt="2-privileged-access" src="https://github.com/user-attachments/assets/6730d492-04f6-4441-b7f3-c82b97fd088c" />
+
+### 3. compromised account incident isolation (containment)
+<img width="1360" height="630" alt="3-incident-containment" src="https://github.com/user-attachments/assets/70d88810-f180-4304-b60a-a96d7682abd9" />
+
+
